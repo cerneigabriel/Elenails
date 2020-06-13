@@ -1,0 +1,40 @@
+$white: #ffffff;
+$dark: #2d2d2d;
+$dark_lighter: #707070;
+$gray_lighter: #f2f2f2;
+$pink_lighter: #efe3df;
+$black: #000000;
+$dark_text: rgba(45, 45, 45, 0.8);
+$white_text: rgba(255, 255, 255, 0.8);
+
+.bg__white {
+    background-color: $white;
+}
+
+.bg__dark {
+    background-color: $dark;
+}
+
+.bg__dark_lighter {
+    background-color: $dark_lighter;
+}
+
+.bg__gray_lighter {
+    background-color: $gray_lighter;
+}
+
+.bg__pink_lighter {
+    background-color: $pink_lighter;
+}
+
+.bg__black {
+    background-color: $black;
+}
+
+.bg__dark_text {
+    background-color: $dark_text;
+}
+
+.bg__white_text {
+    background-color: $white_text;
+}

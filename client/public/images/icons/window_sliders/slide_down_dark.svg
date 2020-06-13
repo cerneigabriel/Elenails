@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.36 48.897" width="200px">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #2d2d2d;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+      
+      @keyframes hideshow {
+        0% {
+          transform: translateY(-22px);
+        }
+        50% {
+          transform: translateY(0);
+        }
+        100% {
+          transform: translateY(-22px);
+        }
+      } 
+
+      #Group_9 {
+        animation: hideshow 1.5s infinite;
+}
+    </style>
+  </defs>
+  <g id="Group_10" data-name="Group 10" transform="translate(-948 -2037.945)">
+    <g id="Rectangle_2" data-name="Rectangle 2" class="cls-1" transform="translate(948 2037.945)">
+      <rect class="cls-3" width="23.36" height="48.897" rx="11.68"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="22.36" height="47.897" rx="11.18"/>
+    </g>
+    <g id="Group_9" data-name="Group 9">
+      <path id="Path_1" data-name="Path 1" class="cls-2" d="M956.158,2066.328l4.469,4.469,4.469-4.469" transform="translate(-0.658 7)"/>
+      <path id="Path_2" data-name="Path 2" class="cls-2" d="M956.158,2066.328l2.578,2.578,2.578-2.578" transform="translate(1.342 4.891)"/>
+    </g>
+  </g>
+  
+</svg>

@@ -1,6 +1,6 @@
 <template>
   <div class="Logo">
-    <img src="../assets/images/logo/elenails_logo_dark.png" alt="Elenails" />
+    <img src="/images/logo/elenails_logo_dark.png" alt="Elenails" />
     Elenails
   </div>
 </template>
